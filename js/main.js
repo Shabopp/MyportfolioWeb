@@ -883,7 +883,7 @@ const projectData = [
   {
     "title": "MedBrief",
     "subTitle": "AI-Powered Transcription-Based Doctor Consultation System.",
-    "thumbnail": "/img/tuxpi.com.1738146636.jpg",
+    "thumbnail": "https://res.cloudinary.com/dagusuc4s/image/upload/v1738172651/cdn/tuxpi.com.1738146636_xqhifd.jpg",
     "description": "MedBrief is an AI-based transcription system with a React-based interface that streamlines doctor-patient interactions by automating real-time transcription, extracting key visit summaries, and generating structured prescriptions without manual input. It enhances patient care efficiency by integrating appointment booking, pre-consult questionnaires, and automated patient history retrieval, reducing clinic staffing needs and improving medical record accuracy.",
     "techStack": ["React", "AI", "NLP", "Firebase"],
     "srcURL": "https://github.com/Shabopp/MedBrief-Healthcare-App"
@@ -891,7 +891,7 @@ const projectData = [
   {
     title: "CutLink",
     subTitle: "Here you have full control over your links.",
-    thumbnail: "../img/thumbnails/cutlink-thumbnail.png",
+    thumbnail: "https://res.cloudinary.com/dagusuc4s/image/upload/v1738172709/cdn/cutlink-thumbnail_sspt06.png",
     description:
       "CutLink is a modern and user-friendly web application built with React and Material UI. Our platform offers a complete solution for link shortening. With CutLink, you can create short, branded links that are easy to share. Try CutLink today and experience the power of a smarter link shortning platform!",
     techStack: ["React", "MUI"],
@@ -901,7 +901,7 @@ const projectData = [
     title: "MindMate",
     subTitle:
       "Unlock the power of your mind with our AI-Driven mental health web application",
-    thumbnail: "../img/thumbnails/mindmate-thumbnail.png",
+    thumbnail: "https://res.cloudinary.com/dagusuc4s/image/upload/v1738172709/cdn/mindmate-thumbnail_wqfnm9.png",
     description:
       "MindMate is a web application that provides mental health solutions using artificial intelligence powered by OpenAI. It is designed to help individuals struggling with mental health issues to improve their well-being and overall quality of life. The app provides personalized and confidential support to users by analyzing their symptoms, emotions, and behavior. MindMate uses advanced algorithms to identify patterns in user data and provide them with tailored recommendations for managing their mental health.",
     techStack: ["Next.js", "React", "Node.js"],
@@ -919,7 +919,7 @@ const projectData = [
   {
     "title": "StudyNotion",
     "subTitle": "A fully functional ed-tech platform for learning and teaching.",
-    "thumbnail": "/img/babbar.png",
+    "thumbnail": "https://res.cloudinary.com/dagusuc4s/image/upload/v1738172652/cdn/babbar_ulpvzt.png",
     "description": "StudyNotion is a versatile ed-tech platform built using the MERN stack. It enables users to create, consume, and rate educational content while providing a seamless experience for students and instructors. The platform follows a client-server architecture with ReactJS for the front end, Node.js and Express.js for the backend, and MongoDB for data storage. Features include user authentication, course management, payment integration via Razorpay, cloud-based media storage with Cloudinary, and a RESTful API design for seamless communication between the front end and back end.",
     "techStack": ["MERN Stack", "ReactJS", "Node.js", "Express.js", "MongoDB", "Razorpay", "Cloudinary"],
     "srcURL": "https://github.com/Shabopp"
@@ -927,7 +927,7 @@ const projectData = [
   {
     "title": "Taxi Booking App",
     "subTitle": "A full-featured Taxi Booking App built with Next.js 13.",
-    "thumbnail": "/img/taxi.jpg",
+    "thumbnail": "https://res.cloudinary.com/dagusuc4s/image/upload/v1738172451/cdn/taxi_cb3g9z.jpg",
     "description": "A modern taxi booking app developed using Next.js 13, Tailwind CSS, and TypeScript. This application incorporates real-time mapping with Mapbox, secure payments via Stripe, and user authentication using Clerk. The project provides a complete guide to building a feature-rich taxi booking system, covering UI design, backend integration, and real-time location services. Ideal for developers looking to learn or enhance their skills in React and Next.js.",
     "techStack": ["Next.js 13", "React", "Tailwind CSS", "TypeScript", "Mapbox", "Stripe"],
     "srcURL": "https://github.com/Shabopp/taxi-booking-nextjs-master"
@@ -935,7 +935,7 @@ const projectData = [
   {
     "title": "SafePayAI",
     "subTitle": "AI-Powered Fraud Detection System.",
-    "thumbnail": "../img/cevcwe.png",
+    "thumbnail": "https://res.cloudinary.com/dagusuc4s/image/upload/v1738172821/cdn/cevcwe_zt8aqc.png",
     "description": "SafePayAI is an advanced fraud detection system leveraging AI techniques, including Generative Adversarial Networks (GANs) for synthetic data generation and Random Forest classifiers for real-time fraud prediction. Achieved 97% accuracy in fraud detection and secured 1st place at the DigiPay Pro NPCI Competition, IIT Bombay Techfest 2024. Integrated a Flask-based backend with a React frontend, delivering real-time alerts and analytics through an intuitive interface.",
     "techStack": ["AI", "Machine Learning", "GANs", "Flask", "React"],
     "srcURL": "https://github.com/Shabopp/FraudDetectionUsingGAN"
